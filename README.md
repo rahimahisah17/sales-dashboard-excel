@@ -11,8 +11,7 @@ This repository contains the interactive Excel dashboard used to track key sales
 
 To interact with the full dashboard, please follow these steps:
 
-To view the dashboard, please download the **Excel_Dashboard.xlsx** file and open it in Microsoft Excel. 
-1.  **Download the File:** Click on the **Excel_Dashboard.xlsx** file listed above.
+1.  **Download the File:** Click on the **https://github.com/rahimahisah17/sales-dashboard-excel/blob/main/Excel_Dashboard.xlsx** file
 2.  Click the **"Download"** button on the file page.
 3.  Open the file in **Microsoft Excel** (or compatible software) to view the interactive charts.
 
